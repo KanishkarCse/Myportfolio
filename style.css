@@ -1,0 +1,86 @@
+/* style.css */
+
+/* Global Styles */
+
+body {
+  background-color: #f1f1f1;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Header Styles */
+
+header {
+  background-color: #ffa500;
+  padding: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px;
+}
+
+/* Section Styles */
+
+section {
+  padding: 50px;
+}
+
+h1, h2, h3, h4 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+/* Portfolio Styles */
+
+.portfolio-item {
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Custom Styles */
+
+/* Add your custom styles here */
+
+/* Additional Colors */
+
+/* Custom color for the "About Me" section */
+#about {
+  background-color: #f3f3f3;
+}
+
+/* Custom color for the project headings */
+.portfolio-item h3 {
+  color: #ff69b4;
+}
+
+/* Custom color for the skills section */
+#skills {
+  background-color: #e6e6fa;
+}
+
+/* Custom color for the skill categories */
+#skills h3 {
+  color: #483d8b;
+}
+
+/* Custom color for the events and workshops section */
+#skills h3 + h3 {
+  color: #8b4513;
+}
+
+/* Custom color for the roles and responsibilities section */
+#roles and responsibilities {
+  background-color: #f5f5dc;
+}
+
+/* Custom color for the contact section */
+#contact {
+  background-color: #87ceeb;
+}
